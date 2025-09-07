@@ -102,7 +102,6 @@ namespace Day01
             //string name = "leetcode";
             //Console.WriteLine(Helper.IndexOfFirstNonRepeatedCharacter(name)); 
             #endregion
-
         }
     }
 }
