@@ -122,6 +122,5 @@ namespace Demo
             return this.Salary.CompareTo(other?.Salary??1);
         }
         #endregion
-
     }
 }
