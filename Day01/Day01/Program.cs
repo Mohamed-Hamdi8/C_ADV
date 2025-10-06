@@ -99,8 +99,8 @@ namespace Day01
             #endregion
 
             #region 5 {Without Using Dictionary} I don't know her yet
-            //string name = "leetcode";
-            //Console.WriteLine(Helper.IndexOfFirstNonRepeatedCharacter(name)); 
+            string name = "leetcode";
+            Console.WriteLine(Helper.IndexOfFirstNonRepeatedCharacter(name));
             #endregion
         }
     }
